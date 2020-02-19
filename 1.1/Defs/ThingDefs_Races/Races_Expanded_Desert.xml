@@ -220,6 +220,7 @@
       <baseHealthScale>0.72</baseHealthScale>
       <foodType>OmnivoreRoughAnimal</foodType>
       <leatherDef>Leather_Lizard</leatherDef>
+	  <useMeatFrom>Tortoise</useMeatFrom>
       <wildness>0.80</wildness>
       <lifeExpectancy>80</lifeExpectancy>
 	  <wildBiomes>
